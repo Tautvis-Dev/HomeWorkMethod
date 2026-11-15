@@ -26,8 +26,8 @@ public class Main {
         int monthDaysFrom;
         int monthDaysTo;
         int minusDays;
-        int minusMonthsDays;
-        int minusYearsDays;
+//        int minusMonthsDays;
+//        int minusYearsDays;
         if (year_from % 400 == 0) {
             yearDaysFrom = 366;
         } else {
