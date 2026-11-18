@@ -20,7 +20,6 @@ public class Main {
                 bendrasFailuDydis += failuDydis;
                 System.out.print(failuDydis+" bytes ");
             } else {
-//                System.out.print("F ");
                 bendrasFailuDydis += catalog.length();
                 System.out.print(catalog.length()+ " bytes ");
             }
