@@ -28,6 +28,7 @@ public class Main {
         return bendrasFailuDydis;
     }
 
+
     static void main() {
         Scanner in = new Scanner(System.in);
         System.out.println("Iveskite failo kelia: ");
